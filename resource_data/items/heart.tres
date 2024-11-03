@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Item" load_steps=3 format=3 uid="uid://dxl00fr2bru47"]
+
+[ext_resource type="Texture2D" uid="uid://cbfvphf57shuk" path="res://icon.svg" id="1_srxy7"]
+[ext_resource type="Script" path="res://resource_model/item.gd" id="2_vd3wd"]
+
+[resource]
+script = ExtResource("2_vd3wd")
+name = "Heart"
+color = Color(1, 0, 0, 1)
+icon = ExtResource("1_srxy7")

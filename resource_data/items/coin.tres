@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Item" load_steps=3 format=3 uid="uid://cwvayk0b8wvg"]
+
+[ext_resource type="Texture2D" uid="uid://cbfvphf57shuk" path="res://icon.svg" id="1_7ag32"]
+[ext_resource type="Script" path="res://resource_model/item.gd" id="2_ponua"]
+
+[resource]
+script = ExtResource("2_ponua")
+name = "Coin"
+color = Color(1, 1, 0, 1)
+icon = ExtResource("1_7ag32")
